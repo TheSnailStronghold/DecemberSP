@@ -1,7 +1,7 @@
 package rd.epam.com;
 
 public enum Group {
-    FIRST("First group"), SECOND("second group");
+    FIRST("First group"), SECOND("Second group");
 
     private final String name;
 
